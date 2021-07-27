@@ -1,0 +1,24 @@
+.row{
+        font-size: 20px;
+}
+
+.centrada{
+        text-align: center;
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+        
+    
+       }
+       .centrada2{
+      
+        margin-left: 7px;
+        
+    
+       }
+       .action-sheet-title.sc-ion-action-sheet-md {
+                        color:red;
+                        text-align:center;
+
+       }
